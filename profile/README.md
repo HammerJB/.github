@@ -5,6 +5,5 @@
 
 ### Made with :heart: by
  - [Skadz](https://github.com/skadz108)
- - [iwishkem](https://github.com/iwishkem)
  - [BrocoDev](https://github.com/Broco8Dev)
  - [Lrdsnow](https://github.com/Lrdsnow)
